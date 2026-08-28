@@ -9,16 +9,20 @@ A self-updating **Gujarati panchang** calendar. A GitHub Actions workflow runs
 (`docs/gujarati-panchang.ics`). GitHub Pages serves that file over HTTPS and an
 iPhone subscribes to the URL. Each day is one all-day event, e.g.
 `Shravan Sud Chaudas · VS 2082`, carrying Gujarati month, paksha, tithi,
-nakshatra and Gujarati Samvat.
+nakshatra and Gujarati Samvat. Festival days get an additional all-day event.
 
-Dates are computed from the Swiss Ephemeris via the
+Panchang dates are computed from the Swiss Ephemeris via the
 [`drik-panchanga`](https://github.com/bdsatish/drik-panchanga) engine, pinned to
-a fixed commit.
+a fixed commit. Festival dates are **not** computed; they come from a curated
+CSV (see below).
 
 ## Layout
 
 - `build_ics.py` — generator. Reads the engine, writes the feed. No hardcoded
   dates; the window is always 5 days back to ~430 days ahead of the run date.
+- `festivals.csv` — curated festival dates (`date,name`), Ahmedabad reckoning.
+  The generator loads this and emits one extra all-day event per row that falls
+  inside the window.
 - `.github/workflows/panchang.yml` — CI. Installs `pyswisseph`, clones the
   pinned engine, runs the generator, commits the feed when it changes.
 - `docs/gujarati-panchang.ics` — the published feed (a working copy is committed
@@ -47,28 +51,35 @@ Calendar.from_ical(open('docs/gujarati-panchang.ics','rb').read()); print('ok')"
   (0.1.0) is stale and has a different API — its `elapsed_year` returns two
   values instead of three and breaks this code. Always clone the GitHub repo at
   the SHA in the workflow (`PANCHANGA_REF`). Bump the SHA only deliberately, and
-  re-validate (see below) after any bump.
+  re-validate after any bump.
 - **Reckoning is Ahmedabad** (`Asia/Kolkata`, fixed offset `5.5`; India has no
   DST, so a fixed offset is correct here). This is intentional: it keeps dates
   in sync with family and community in India. Do not switch the location. For a
   local-sunrise location, tithi labels diverge from India roughly one day in
-  five, and a fixed offset would also drift across DST — a non-DST location like
-  Ahmedabad sidesteps both.
+  five, and a fixed offset would also drift across DST.
+- **Never compute festival dates from the engine.** Its festival selector
+  approximates time-of-day rules (pradosh / madhyahna / aparahna) with sunrise
+  rules and lands a day late on several majors (verified wrong: Diwali,
+  Ganesh Chaturthi, Dussehra). Festivals come only from `festivals.csv`.
+- **Festival dates intentionally differ from the daily tithi label** on the same
+  day, because festivals follow evening/midnight rules while the daily line is
+  the tithi at sunrise. Example: on Diwali (8 Nov 2026) the daily event reads
+  `Aaso Vad Chaudas` while the festival event reads `Diwali`. This is correct,
+  not a bug. Do not "align" them.
 - **Tithi is sunrise-based** and can differ from another panchang by one day at
-  a tithi boundary. This is expected, not a bug. Validate against
-  `drikpanchang.com` for the same location rather than "fixing" it.
+  a boundary. Validate against `drikpanchang.com` for Ahmedabad rather than
+  "fixing" it.
 - **Gujarati Samvat rule:** `= Chaitradi Vikram − 1` for masa 1..7
-  (Chaitra..Aaso), else equal. Verified at Bestu Varas 2026: Aaso Vad Amas
-  (9 Nov, VS 2082) → Kartak Sud Ekam (10 Nov, VS 2083). Do not change without
-  re-checking this rollover.
+  (Chaitra..Aaso), else equal. Verified at Bestu Varas 2026
+  (Amas → Kartak Sud Ekam across 9–10 Nov 2026). Do not change without
+  re-checking that rollover.
 - **ICS correctness:** CRLF line endings, RFC 5545 folding at 74 octets, and
-  property escaping are already handled in `build_ics.py` — preserve them.
-  All-day events use `DTSTART;VALUE=DATE`. Keep the feed free of hardcoded
-  dates; derive the window from the run date.
+  property escaping are already handled — preserve them. All-day events use
+  `DTSTART;VALUE=DATE`. Keep the feed free of hardcoded dates.
 - **CI actions are pinned** to `actions/checkout@v5` and
   `actions/setup-python@v6` (Node 24). Do not downgrade.
 - **iOS refresh latency is not controllable.** Do not add hacks that claim to
-  force it; the file is fresh, the phone refetches on Apple's own schedule.
+  force it.
 - **Engine licence is AGPL-3.0-or-later.** Clone-and-compute in CI only; do not
   vendor its source into this repo.
 
@@ -80,72 +91,71 @@ Calendar.from_ical(open('docs/gujarati-panchang.ics','rb').read()); print('ok')"
   the cloned engine). Do not add heavy dependencies.
 - Output must be deterministic for a given run date.
 
-## Task: add curated festivals
+## `festivals.csv` format
 
-Festivals are wanted (Diwali, Janmashtami, Navratri/Dussehra, Ganesh Chaturthi,
-Uttarayan, etc.), currently absent.
+- Two columns: `date` (Gregorian `YYYY-MM-DD`) and `name`.
+- One row per occurrence. A day may have several rows (e.g. a Navratri night and
+  Durgashtami on the same date).
+- Lines beginning with `#`, blank lines, and the `date` header are ignored. The
+  header comment block records provenance and the dates still needing
+  verification.
+- The loader emits a row only if its date is inside the generated window, so
+  future-dated rows sitting past the horizon are harmless and simply wait.
 
-### Why not compute them from the engine
+## To-Do: festival maintenance
 
-The engine's festival selector approximates time-of-day rules (pradosh,
-madhyahna, aparahna) with sunrise rules and lands **a day late on several
-majors**. Confirmed wrong values from the engine, for Ahmedabad:
+The festival feature is **built and working**. What remains is upkeep, not
+construction. There are two recurring jobs.
 
-- Diwali → 9 Nov 2026 (correct: **8 Nov 2026**)
-- Ganesh Chaturthi → 15 Sep 2026 (correct: **14 Sep 2026**)
-- Dussehra → 21 Oct 2026 (correct: **20 Oct 2026**)
+### To-Do 1 — Yearly refresh (append the next year before the horizon runs out)
 
-A wrong Diwali is worse than no festivals. **Do not compute festival dates from
-the engine.** Use a curated, human-verified list.
+The feed window reaches ~430 days ahead of the run date. `festivals.csv`
+currently covers **VS 2082–2083 (2026–2027)**, through early November 2027. As
+real time advances, the tail of the CSV moves inside the window and eventually
+runs out; once the latest CSV date is fewer than ~430 days ahead of today, some
+future days will have no festivals.
 
-### Design
+Task, to be done roughly once a year (target: before **mid-2027**, so the
+2027–2028 rows exist well before the 2027 tail enters the window):
 
-1. Add `festivals.csv` with two columns: `date` (Gregorian `YYYY-MM-DD`) and
-   `name`. One row per occurrence.
-2. In `build_ics.py`, add a loader that reads `festivals.csv` and, for each row
-   whose date falls inside the feed window, emits a **separate** all-day
-   `VEVENT`: `CATEGORIES:Festival`, a stable UID like
-   `{date}-{slug}-fest@github-pages`, `SUMMARY` = the festival name. Leave the
-   daily panchang events unchanged. If `festivals.csv` is absent, emit no
-   festival events and do not error.
-3. Keep it deterministic and window-bounded: never emit a festival dated outside
-   the generated range.
+1. Determine the festival dates for the next Gujarati year (VS 2084 / 2028) for
+   the same festival set already in the CSV.
+2. Source each date by **verifying it against `drikpanchang.com`** (Gujarati day
+   panchang, Ahmedabad / `Asia/Kolkata`). Drik is the authority. Do not compute
+   from the engine, and do not trust generic aggregator sites. Web-search to
+   corroborate; if a date cannot be verified, leave it out and note it rather
+   than guessing.
+3. Append the new rows to `festivals.csv` (keep existing rows; order is not
+   significant). Update the header comment block with any new
+   confirm-with-family items.
+4. Regenerate and parse-check the feed.
 
-### Sourcing discipline (the important part)
-
-Populate `festivals.csv` by verifying **each** date against
-`drikpanchang.com` (Gujarati day panchang, Ahmedabad). Drik is the authority
-here. Do not trust generic date-aggregator sites, and do not back-fill from the
-engine. Web-search to confirm, and if a date cannot be verified, leave it out
-and note it rather than guessing.
-
-Use these confirmed values as acceptance checks — if the CSV disagrees with any
-of them, the CSV is wrong:
-
-- Diwali 2026 = `2026-11-08`
-- Ganesh Chaturthi 2026 = `2026-09-14`
-- Dussehra (Vijayadashami) 2026 = `2026-10-20`
-
-Festival set to include (Gujarati labels): Makar Sankranti (Uttarayan), Vasant
-Panchami, Maha Shivratri, Holi (Holika Dahan), Ram Navami, Hanuman Jayanti,
-Akshaya Tritiya, Guru Purnima, Nag Panchami, Raksha Bandhan, Krishna
-Janmashtami, Ganesh Chaturthi, Anant Chaturdashi, Mahalaya Amavasya (Shraddh),
-Durgashtami, Navratri start, Dussehra (Vijayadashami), Dhanteras, Kali Chaudas,
-Diwali, Bestu Varas (Gujarati New Year), Labh Pancham, Vaikuntha Ekadashi.
-
-Seed the file for **VS 2082–2083 (Gregorian 2026–2027)** so it covers the whole
-~14-month window. Refresh yearly by appending the next year's verified rows;
-this is the one manual step and it is intentional (correctness over automation
-for religious dates).
-
-### Acceptance criteria
+Acceptance for the refresh:
 
 - Feed still parses with `icalendar`.
-- Festival events appear only within the generated window.
-- The three confirmed anchors above land exactly.
-- No festival date is engine-computed.
-- Daily panchang events are unchanged.
-- Local run and CI both succeed.
+- The new year's Diwali, Ganesh Chaturthi and Dussehra match Drik for Ahmedabad
+  (these three are the boundary-sensitive tripwires — if any is off, the batch
+  is wrong).
+- Navratri appears as nine consecutive night rows plus a separate Durgashtami
+  and Dussehra, matching the existing pattern.
+- No festival date was engine-computed.
+
+### To-Do 2 — Lock the flagged dates
+
+Several dates in the current CSV are genuine one-day source splits or
+lower-confidence entries, listed in the CSV header comment block. When the owner
+confirms the correct date with family / temple, edit the single CSV row and drop
+that line from the header comment. Known flags at time of writing:
+
+- `2026-10-18` Durgashtami — some panchangs place Ashtami puja `2026-10-19`.
+- `2026-11-10` Bestu Varas — some families observe `2026-11-09`.
+- `2027-01-14` Uttarayan — astronomical Makar Sankranti may be `2027-01-15`.
+- `2027-03-06` Maha Shivratri — some sources `2027-03-07`.
+- `2026-10-25` Sharad Purnima, `2027-07-18` Guru Purnima, `2027-08-22`
+  Nag Panchami (Gujarat) — verify.
+
+Do not silently change a flagged date without a source; either verify it against
+Drik / the owner's tradition, or leave it and keep the flag.
 
 ## Validation checklist (run after any change)
 
@@ -153,4 +163,6 @@ for religious dates).
 2. The file parses with `icalendar`.
 3. Spot-check ~5 daily dates (an Agiyaras/Ekadashi, Punam, Amas, plus a
    festival) against `drikpanchang.com` for Ahmedabad.
-4. Bestu Varas rollover still reads VS 2082 → 2083 across 9–10 Nov 2026.
+4. Diwali / Ganesh Chaturthi / Dussehra festival rows match Drik for the years
+   in the CSV.
+5. Bestu Varas rollover still reads VS 2082 → 2083 across 9–10 Nov 2026.

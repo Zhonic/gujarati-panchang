@@ -1,68 +1,68 @@
 # Gujarati festival dates, Ahmedabad reckoning, VS 2082-2083 (2026-2027).
-# Hand-curated and cross-checked against multiple panchang sources.
-# Lines starting with # are ignored. Format: date,name  (date = YYYY-MM-DD Gregorian)
-#
-# CONFIRM-WITH-FAMILY items (genuine 1-day source splits):
-#   2026-10-18 Durgashtami  -- some panchangs place Ashtami puja 2026-10-19 (tithi merge)
-#   2026-11-10 Bestu Varas  -- some families observe 2026-11-09 (morning after Diwali)
-#   2027-01-14 Uttarayan    -- astronomical Makar Sankranti may compute to 2027-01-15
-#   2027-03-06 Maha Shivratri -- some sources 2027-03-07
+# Hand-curated and cross-checked against multiple panchang sources.,,
+# Lines starting with # are ignored. Format: date,name  (date = YYYY-MM-DD Gregorian),
+#,,
+# CONFIRM-WITH-FAMILY items (genuine 1-day source splits):,,
+#   2026-10-18 Durgashtami  -- some panchangs place Ashtami puja 2026-10-19 (tithi merge),,
+#   2026-11-10 Bestu Varas  -- some families observe 2026-11-09 (morning after Diwali),,
+#   2027-01-14 Uttarayan    -- astronomical Makar Sankranti may compute to 2027-01-15,,
+#   2027-03-06 Maha Shivratri -- some sources 2027-03-07,,
 #   2026-10-25 Sharad Purnima, 2027-07-18 Guru Purnima, 2027-08-22 Nag Panchami -- verify
-date,name
-2026-08-28,Raksha Bandhan
-2026-09-01,Nag Panchami (Gujarat)
-2026-09-04,Krishna Janmashtami
-2026-09-14,Ganesh Chaturthi
-2026-09-25,Anant Chaturdashi
-2026-10-10,Mahalaya Amavasya (Sarva Pitru)
-2026-10-11,Navratri Night 1 (Shailaputri)
-2026-10-12,Navratri Night 2 (Brahmacharini)
-2026-10-13,Navratri Night 3 (Chandraghanta)
-2026-10-14,Navratri Night 4 (Kushmanda)
-2026-10-15,Navratri Night 5 (Skandamata)
-2026-10-16,Navratri Night 6 (Katyayani)
-2026-10-17,Navratri Night 7 (Kalaratri)
-2026-10-18,Navratri Night 8 (Mahagauri)
-2026-10-19,Navratri Night 9 (Siddhidatri)
-2026-10-18,Durgashtami
-2026-10-20,Dussehra (Vijayadashami)
-2026-10-25,Sharad Purnima
-2026-11-06,Dhanteras
-2026-11-07,Kali Chaudas (Naraka Chaturdashi)
-2026-11-08,Diwali (Lakshmi Puja)
-2026-11-10,Bestu Varas (Gujarati New Year)
-2026-11-11,Bhai Bij
-2026-11-14,Labh Pancham
-2027-01-14,Uttarayan (Makar Sankranti)
-2027-02-11,Vasant Panchami
-2027-03-06,Maha Shivratri
-2027-03-22,Holika Dahan
-2027-03-23,Dhuleti (Holi)
-2027-04-15,Ram Navami
-2027-04-20,Hanuman Jayanti
-2027-05-09,Akshaya Tritiya
-2027-07-18,Guru Purnima
-2027-08-17,Raksha Bandhan
-2027-08-22,Nag Panchami (Gujarat)
-2027-08-25,Krishna Janmashtami
-2027-09-04,Ganesh Chaturthi
-2027-09-14,Anant Chaturdashi
-2027-09-29,Mahalaya Amavasya (Sarva Pitru)
-2027-09-30,Navratri Night 1 (Shailaputri)
-2027-10-01,Navratri Night 2 (Brahmacharini)
-2027-10-02,Navratri Night 3 (Chandraghanta)
-2027-10-03,Navratri Night 4 (Kushmanda)
-2027-10-04,Navratri Night 5 (Skandamata)
-2027-10-05,Navratri Night 6 (Katyayani)
-2027-10-06,Navratri Night 7 (Kalaratri)
-2027-10-07,Navratri Night 8 (Mahagauri)
-2027-10-08,Navratri Night 9 (Siddhidatri)
-2027-10-07,Durgashtami
-2027-10-09,Dussehra (Vijayadashami)
-2027-10-15,Sharad Purnima
-2027-10-27,Dhanteras
-2027-10-28,Kali Chaudas (Naraka Chaturdashi)
-2027-10-29,Diwali (Lakshmi Puja)
-2027-10-30,Bestu Varas (Gujarati New Year)
-2027-10-31,Bhai Bij
-2027-11-03,Labh Pancham
+date,name,
+28/08/26,Raksha Bandhan,
+01/09/26,Nag Panchami (Gujarat),
+04/09/26,Krishna Janmashtami,
+14/09/26,Ganesh Chaturthi,
+25/09/26,Anant Chaturdashi,
+10/10/26,Mahalaya Amavasya (Sarva Pitru),
+11/10/26,Navratri Night 1 (Shailaputri),
+12/10/26,Navratri Night 2 (Brahmacharini),
+13/10/26,Navratri Night 3 (Chandraghanta),
+14/10/26,Navratri Night 4 (Kushmanda),
+15/10/26,Navratri Night 5 (Skandamata),
+16/10/26,Navratri Night 6 (Katyayani),
+17/10/26,Navratri Night 7 (Kalaratri),
+18/10/26,Navratri Night 8 (Mahagauri),
+19/10/26,Navratri Night 9 (Siddhidatri),
+18/10/26,Durgashtami,
+20/10/26,Dussehra (Vijayadashami),
+25/10/26,Sharad Purnima,
+06/11/26,Dhanteras,
+07/11/26,Kali Chaudas (Naraka Chaturdashi),
+08/11/26,Diwali (Lakshmi Puja),
+10/11/26,Bestu Varas (Gujarati New Year),
+11/11/26,Bhai Bij,
+14/11/26,Labh Pancham,
+14/01/27,Uttarayan (Makar Sankranti),
+11/02/27,Vasant Panchami,
+06/03/27,Maha Shivratri,
+22/03/27,Holika Dahan,
+23/03/27,Dhuleti (Holi),
+15/04/27,Ram Navami,
+20/04/27,Hanuman Jayanti,
+09/05/27,Akshaya Tritiya,
+18/07/27,Guru Purnima,
+17/08/27,Raksha Bandhan,
+22/08/27,Nag Panchami (Gujarat),
+25/08/27,Krishna Janmashtami,
+04/09/27,Ganesh Chaturthi,
+14/09/27,Anant Chaturdashi,
+29/09/27,Mahalaya Amavasya (Sarva Pitru),
+30/09/27,Navratri Night 1 (Shailaputri),
+01/10/27,Navratri Night 2 (Brahmacharini),
+02/10/27,Navratri Night 3 (Chandraghanta),
+03/10/27,Navratri Night 4 (Kushmanda),
+04/10/27,Navratri Night 5 (Skandamata),
+05/10/27,Navratri Night 6 (Katyayani),
+06/10/27,Navratri Night 7 (Kalaratri),
+07/10/27,Navratri Night 8 (Mahagauri),
+08/10/27,Navratri Night 9 (Siddhidatri),
+07/10/27,Durgashtami,
+09/10/27,Dussehra (Vijayadashami),
+15/10/27,Sharad Purnima,
+27/10/27,Dhanteras,
+28/10/27,Kali Chaudas (Naraka Chaturdashi),
+29/10/27,Diwali (Lakshmi Puja),
+30/10/27,Bestu Varas (Gujarati New Year),
+31/10/27,Bhai Bij,
+03/11/27,Labh Pancham,
