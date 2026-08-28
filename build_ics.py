@@ -10,6 +10,7 @@ can override without editing code. Defaults reckon by Ahmedabad sunrise, which
 matches the standard Gujarat panchang and Drik Panchang's default.
 """
 
+import csv
 import os
 from datetime import date, timedelta, datetime, timezone
 
@@ -23,6 +24,7 @@ DAYS_AHEAD = int(os.environ.get("PANCHANG_DAYS_AHEAD", "430"))
 DAYS_BACK = int(os.environ.get("PANCHANG_DAYS_BACK", "5"))
 CAL_NAME = os.environ.get("PANCHANG_CAL_NAME", "Gujarati Panchang")
 OUT_PATH = os.environ.get("PANCHANG_OUT", "docs/gujarati-panchang.ics")
+FESTIVALS_CSV = os.environ.get("PANCHANG_FESTIVALS_CSV", "festivals.csv")
 # ------------------------------------------------------------------------
 
 PLACE = P.Place(LAT, LON, TZ)
@@ -93,11 +95,43 @@ def day_record(d):
     return summary, description
 
 
+def load_festivals(path):
+    """Return a mapping of Gregorian date -> list of festival names.
+
+    Reads a two-column CSV (date, name). Blank lines, lines beginning with
+    ``#``, and the header row are skipped. A missing file yields an empty
+    mapping so the feed degrades to panchang-only rather than failing.
+    """
+    festivals = {}
+    if not os.path.exists(path):
+        return festivals
+    with open(path, newline="", encoding="utf-8") as handle:
+        for row in csv.reader(handle):
+            if not row:
+                continue
+            first = row[0].strip()
+            if not first or first.startswith("#") or first == "date":
+                continue
+            day = date.fromisoformat(first)
+            festivals.setdefault(day, []).append(row[1].strip())
+    return festivals
+
+
+def slugify(name):
+    """Reduce a festival name to a UID-safe token."""
+    keep = [c.lower() if c.isalnum() else "-" for c in name]
+    slug = "".join(keep)
+    while "--" in slug:
+        slug = slug.replace("--", "-")
+    return slug.strip("-")
+
+
 def main():
     today = date.today()
     start = today - timedelta(days=DAYS_BACK)
     end = today + timedelta(days=DAYS_AHEAD)
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    festivals = load_festivals(FESTIVALS_CSV)
 
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0",
@@ -126,6 +160,18 @@ def main():
             "TRANSP:TRANSPARENT",
             "END:VEVENT",
         ]
+        for name in festivals.get(d, []):
+            lines += [
+                "BEGIN:VEVENT",
+                f"UID:{d.isoformat()}-{slugify(name)}-fest@github-pages",
+                f"DTSTAMP:{stamp}",
+                f"DTSTART;VALUE=DATE:{d.strftime('%Y%m%d')}",
+                f"DTEND;VALUE=DATE:{nxt.strftime('%Y%m%d')}",
+                fold(f"SUMMARY:{esc(name)}"),
+                "CATEGORIES:Festival",
+                "TRANSP:TRANSPARENT",
+                "END:VEVENT",
+            ]
         count += 1
         d = nxt
 
