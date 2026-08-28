@@ -1,0 +1,59 @@
+name: Build Gujarati panchang feed
+
+# Regenerates docs/gujarati-panchang.ics and commits it when it changes.
+# Runs weekly (keeps the ~14-month horizon rolling forward), on every push to
+# main, and on demand from the Actions tab.
+on:
+  schedule:
+    - cron: "0 20 * * 0"   # Sundays 20:00 UTC
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# The panchang engine (AGPL-3.0) is cloned at a pinned commit and used only to
+# compute data. Update PANCHANGA_REF to bump it deliberately.
+env:
+  PANCHANGA_REPO: https://github.com/bdsatish/drik-panchanga.git
+  PANCHANGA_REF: 6a251a7fb62d2b264e0fc8c8844f0c2e98f29d91
+  # Reckoning location. Ahmedabad by default; override here to use local sunrise.
+  PANCHANG_LAT: "23.0225"
+  PANCHANG_LON: "72.5714"
+  PANCHANG_TZ: "5.5"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyswisseph
+
+      - name: Fetch panchang engine (pinned)
+        run: |
+          git clone --no-checkout "$PANCHANGA_REPO" engine
+          git -C engine checkout "$PANCHANGA_REF"
+
+      - name: Generate feed
+        run: PYTHONPATH="$PWD/engine" python build_ics.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- docs/gujarati-panchang.ics; then
+            git add docs/gujarati-panchang.ics
+            git commit -m "Update panchang feed ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No change in feed."
+          fi

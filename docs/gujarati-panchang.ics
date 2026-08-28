@@ -1,0 +1,4488 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gujarati-panchang//drik-panchanga//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gujarati Panchang
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2026-08-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Shravan Sud Agiyaras · VS 2082
+DESCRIPTION:Tithi: Sud Agiyaras (ends 04:19 local)\nMonth: Shravan (amanta
+ )\nNakshatra: Mula\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Shravan Sud Baras · VS 2082
+DESCRIPTION:Tithi: Sud Baras (ends 06:21 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Purva Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Shravan Sud Teras · VS 2082
+DESCRIPTION:Tithi: Sud Teras (ends 07:59 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Uttara Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Shravan Sud Teras · VS 2082
+DESCRIPTION:Tithi: Sud Teras (ends 07:59 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Shravana\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Shravan Sud Chaudas · VS 2082
+DESCRIPTION:Tithi: Sud Chaudas (ends 09:09 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Dhanishtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Shravan Sud Punam · VS 2082
+DESCRIPTION:Tithi: Sud Punam (ends 09:48 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Shatabhisha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Shravan Vad Ekam · VS 2082
+DESCRIPTION:Tithi: Vad Ekam (ends 09:57 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Purva Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Shravan Vad Bij · VS 2082
+DESCRIPTION:Tithi: Vad Bij (ends 09:37 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Uttara Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Shravan Vad Trij · VS 2082
+DESCRIPTION:Tithi: Vad Trij (ends 08:51 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Shravan Vad Choth · VS 2082
+DESCRIPTION:Tithi: Vad Choth (ends 07:42 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Ashwini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Shravan Vad Chhath · VS 2082
+DESCRIPTION:Tithi: Vad Chhath (ends 04:26 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Bharani\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Shravan Vad Satam · VS 2082
+DESCRIPTION:Tithi: Vad Satam (ends 02:25 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Krittika\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Shravan Vad Aatham · VS 2082
+DESCRIPTION:Tithi: Vad Aatham (ends 00:14 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Rohini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Shravan Vad Nom · VS 2082
+DESCRIPTION:Tithi: Vad Nom (ends 21:54 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Mrigashirsha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Shravan Vad Dasam · VS 2082
+DESCRIPTION:Tithi: Vad Dasam (ends 19:29 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Ardra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Shravan Vad Agiyaras · VS 2082
+DESCRIPTION:Tithi: Vad Agiyaras (ends 17:04 local)\nMonth: Shravan (amanta
+ )\nNakshatra: Punarvasu\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Shravan Vad Baras · VS 2082
+DESCRIPTION:Tithi: Vad Baras (ends 14:43 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Pushya\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Shravan Vad Teras · VS 2082
+DESCRIPTION:Tithi: Vad Teras (ends 12:31 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Ashlesha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Shravan Vad Chaudas · VS 2082
+DESCRIPTION:Tithi: Vad Chaudas (ends 10:33 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Magha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Shravan Vad Amas · VS 2082
+DESCRIPTION:Tithi: Vad Amas (ends 08:57 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Purva Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Bhadarvo Sud Ekam · VS 2082
+DESCRIPTION:Tithi: Sud Ekam (ends 07:46 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Uttara Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Bhadarvo Sud Bij · VS 2082
+DESCRIPTION:Tithi: Sud Bij (ends 07:08 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Hasta\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Bhadarvo Sud Trij · VS 2082
+DESCRIPTION:Tithi: Sud Trij (ends 07:07 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Chitra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Bhadarvo Sud Choth · VS 2082
+DESCRIPTION:Tithi: Sud Choth (ends 07:44 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Swati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Bhadarvo Sud Pancham · VS 2082
+DESCRIPTION:Tithi: Sud Pancham (ends 08:59 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Vishakha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Bhadarvo Sud Chhath · VS 2082
+DESCRIPTION:Tithi: Sud Chhath (ends 10:48 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Anuradha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Bhadarvo Sud Satam · VS 2082
+DESCRIPTION:Tithi: Sud Satam (ends 13:01 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Jyeshtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Bhadarvo Sud Aatham · VS 2082
+DESCRIPTION:Tithi: Sud Aatham (ends 15:27 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Mula\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Bhadarvo Sud Nom · VS 2082
+DESCRIPTION:Tithi: Sud Nom (ends 17:52 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Purva Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Bhadarvo Sud Dasam · VS 2082
+DESCRIPTION:Tithi: Sud Dasam (ends 20:01 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Uttara Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Bhadarvo Sud Agiyaras · VS 2082
+DESCRIPTION:Tithi: Sud Agiyaras (ends 21:43 local)\nMonth: Bhadarvo (amant
+ a)\nNakshatra: Uttara Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitrad
+ i): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Bhadarvo Sud Baras · VS 2082
+DESCRIPTION:Tithi: Sud Baras (ends 22:51 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Shravana\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Bhadarvo Sud Teras · VS 2082
+DESCRIPTION:Tithi: Sud Teras (ends 23:18 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Dhanishtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Bhadarvo Sud Chaudas · VS 2082
+DESCRIPTION:Tithi: Sud Chaudas (ends 23:07 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Shatabhisha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Bhadarvo Sud Punam · VS 2082
+DESCRIPTION:Tithi: Sud Punam (ends 22:19 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Purva Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi
+ ): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Bhadarvo Vad Ekam · VS 2082
+DESCRIPTION:Tithi: Vad Ekam (ends 20:59 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Uttara Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi
+ ): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Bhadarvo Vad Bij · VS 2082
+DESCRIPTION:Tithi: Vad Bij (ends 19:14 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Bhadarvo Vad Trij · VS 2082
+DESCRIPTION:Tithi: Vad Trij (ends 17:10 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Ashwini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Bhadarvo Vad Choth · VS 2082
+DESCRIPTION:Tithi: Vad Choth (ends 14:55 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Bharani\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Bhadarvo Vad Pancham · VS 2082
+DESCRIPTION:Tithi: Vad Pancham (ends 12:35 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Rohini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Bhadarvo Vad Chhath · VS 2082
+DESCRIPTION:Tithi: Vad Chhath (ends 10:15 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Mrigashirsha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Bhadarvo Vad Satam · VS 2082
+DESCRIPTION:Tithi: Vad Satam (ends 08:00 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Ardra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Bhadarvo Vad Nom · VS 2082
+DESCRIPTION:Tithi: Vad Nom (ends 03:54 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Punarvasu\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Bhadarvo Vad Dasam · VS 2082
+DESCRIPTION:Tithi: Vad Dasam (ends 02:08 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Pushya\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Bhadarvo Vad Agiyaras · VS 2082
+DESCRIPTION:Tithi: Vad Agiyaras (ends 00:35 local)\nMonth: Bhadarvo (amant
+ a)\nNakshatra: Ashlesha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Bhadarvo Vad Baras · VS 2082
+DESCRIPTION:Tithi: Vad Baras (ends 23:17 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Magha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Bhadarvo Vad Teras · VS 2082
+DESCRIPTION:Tithi: Vad Teras (ends 22:16 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Purva Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Bhadarvo Vad Chaudas · VS 2082
+DESCRIPTION:Tithi: Vad Chaudas (ends 21:36 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Uttara Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitrad
+ i): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Bhadarvo Vad Amas · VS 2082
+DESCRIPTION:Tithi: Vad Amas (ends 21:20 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Hasta\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Aaso Sud Ekam · VS 2082
+DESCRIPTION:Tithi: Sud Ekam (ends 21:31 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Chitra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Aaso Sud Bij · VS 2082
+DESCRIPTION:Tithi: Sud Bij (ends 22:13 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Swati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Aaso Sud Trij · VS 2082
+DESCRIPTION:Tithi: Sud Trij (ends 23:28 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Vishakha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Aaso Sud Choth · VS 2082
+DESCRIPTION:Tithi: Sud Choth (ends 01:13 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Anuradha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Aaso Sud Pancham · VS 2082
+DESCRIPTION:Tithi: Sud Pancham (ends 03:25 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Jyeshtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Aaso Sud Chhath · VS 2082
+DESCRIPTION:Tithi: Sud Chhath (ends 05:54 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Jyeshtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Aaso Sud Satam · VS 2082
+DESCRIPTION:Tithi: Sud Satam (ends 08:28 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Mula\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Aaso Sud Satam · VS 2082
+DESCRIPTION:Tithi: Sud Satam (ends 08:28 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Purva Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Aaso Sud Aatham · VS 2082
+DESCRIPTION:Tithi: Sud Aatham (ends 10:52 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Uttara Ashadha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Aaso Sud Nom · VS 2082
+DESCRIPTION:Tithi: Sud Nom (ends 12:50 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Shravana\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Aaso Sud Dasam · VS 2082
+DESCRIPTION:Tithi: Sud Dasam (ends 14:12 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Dhanishtha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Aaso Sud Agiyaras · VS 2082
+DESCRIPTION:Tithi: Sud Agiyaras (ends 14:48 local)\nMonth: Aaso (amanta)\n
+ Nakshatra: Shatabhisha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Aaso Sud Baras · VS 2082
+DESCRIPTION:Tithi: Sud Baras (ends 14:36 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Purva Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Aaso Sud Teras · VS 2082
+DESCRIPTION:Tithi: Sud Teras (ends 13:37 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Uttara Bhadrapada\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Aaso Sud Chaudas · VS 2082
+DESCRIPTION:Tithi: Sud Chaudas (ends 11:56 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Aaso Sud Punam · VS 2082
+DESCRIPTION:Tithi: Sud Punam (ends 09:41 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Ashwini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Aaso Vad Ekam · VS 2082
+DESCRIPTION:Tithi: Vad Ekam (ends 07:02 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Bharani\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Aaso Vad Trij · VS 2082
+DESCRIPTION:Tithi: Vad Trij (ends 01:07 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Krittika\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Aaso Vad Choth · VS 2082
+DESCRIPTION:Tithi: Vad Choth (ends 22:10 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Rohini\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Aaso Vad Pancham · VS 2082
+DESCRIPTION:Tithi: Vad Pancham (ends 19:25 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Mrigashirsha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Aaso Vad Chhath · VS 2082
+DESCRIPTION:Tithi: Vad Chhath (ends 16:57 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Ardra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Aaso Vad Satam · VS 2082
+DESCRIPTION:Tithi: Vad Satam (ends 14:52 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Pushya\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Aaso Vad Aatham · VS 2082
+DESCRIPTION:Tithi: Vad Aatham (ends 13:11 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Ashlesha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Aaso Vad Nom · VS 2082
+DESCRIPTION:Tithi: Vad Nom (ends 11:55 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Magha\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Aaso Vad Dasam · VS 2082
+DESCRIPTION:Tithi: Vad Dasam (ends 11:03 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Purva Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Aaso Vad Agiyaras · VS 2082
+DESCRIPTION:Tithi: Vad Agiyaras (ends 10:36 local)\nMonth: Aaso (amanta)\n
+ Nakshatra: Uttara Phalguni\nGujarati Samvat: 2082  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Aaso Vad Baras · VS 2082
+DESCRIPTION:Tithi: Vad Baras (ends 10:31 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Hasta\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Aaso Vad Teras · VS 2082
+DESCRIPTION:Tithi: Vad Teras (ends 10:48 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Chitra\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Aaso Vad Chaudas · VS 2082
+DESCRIPTION:Tithi: Vad Chaudas (ends 11:28 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Swati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Aaso Vad Amas · VS 2082
+DESCRIPTION:Tithi: Vad Amas (ends 12:32 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Swati\nGujarati Samvat: 2082  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Kartak Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 14:00 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Kartak Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 15:53 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Kartak Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 18:09 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Kartak Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 20:43 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Kartak Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 23:24 local)\nMonth: Kartak (amanta)\
+ nNakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Kartak Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 02:01 local)\nMonth: Kartak (amanta)\n
+ Nakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Kartak Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 04:20 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Kartak Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 06:05 local)\nMonth: Kartak (amanta)\n
+ Nakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Kartak Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 07:06 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Kartak Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 07:06 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Kartak Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 07:16 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi)
+ : 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Kartak Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 04:56 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kartak Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 02:37 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Kartak Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 23:42 local)\nMonth: Kartak (amanta)\
+ nNakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Kartak Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 20:23 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Kartak Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 16:50 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Kartak Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 13:15 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Kartak Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 09:49 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Kartak Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 03:57 local)\nMonth: Kartak (amanta)\
+ nNakshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Kartak Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 01:47 local)\nMonth: Kartak (amanta)\n
+ Nakshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Kartak Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 00:12 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Kartak Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 23:14 local)\nMonth: Kartak (amanta)\n
+ Nakshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Kartak Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 22:52 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Kartak Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 23:04 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Kartak Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 23:45 local)\nMonth: Kartak (amanta)
+ \nNakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Kartak Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 00:52 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Kartak Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 02:22 local)\nMonth: Kartak (amanta)\nN
+ akshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Kartak Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 04:13 local)\nMonth: Kartak (amanta)\
+ nNakshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Kartak Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 06:21 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Magshar Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 08:46 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Magshar Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 08:46 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Magshar Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 11:23 local)\nMonth: Magshar (amanta)\nNa
+ kshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Magshar Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 14:06 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Magshar Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 16:48 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Magshar Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 19:16 local)\nMonth: Magshar (amanta)
+ \nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Magshar Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 21:19 local)\nMonth: Magshar (amanta)\
+ nNakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Magshar Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 22:46 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Magshar Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 23:26 local)\nMonth: Magshar (amanta)\
+ nNakshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi
+ ): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Magshar Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 23:14 local)\nMonth: Magshar (amanta)\nNa
+ kshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Magshar Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 22:09 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Magshar Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 20:15 local)\nMonth: Magshar (amanta
+ )\nNakshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Magshar Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 17:36 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Magshar Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 14:24 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Magshar Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 10:47 local)\nMonth: Magshar (amanta)
+ \nNakshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Magshar Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 03:07 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Magshar Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 23:26 local)\nMonth: Magshar (amanta)\nNa
+ kshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Magshar Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 20:05 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Magshar Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 17:13 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Magshar Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 14:58 local)\nMonth: Magshar (amanta)
+ \nNakshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Magshar Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 13:25 local)\nMonth: Magshar (amanta)\
+ nNakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Magshar Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 12:36 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Magshar Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 12:32 local)\nMonth: Magshar (amanta)\
+ nNakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Magshar Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 13:10 local)\nMonth: Magshar (amanta)\nNa
+ kshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Magshar Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 14:24 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Magshar Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 16:08 local)\nMonth: Magshar (amanta
+ )\nNakshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Magshar Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 18:16 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Magshar Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 20:40 local)\nMonth: Magshar (amanta)\n
+ Nakshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Magshar Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 23:14 local)\nMonth: Magshar (amanta)
+ \nNakshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Magshar Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 01:54 local)\nMonth: Magshar (amanta)\nN
+ akshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Posh Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 04:34 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Posh Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 07:07 local)\nMonth: Posh (amanta)\nNaksh
+ atra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Posh Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 09:28 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Posh Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 09:28 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Posh Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 11:29 local)\nMonth: Posh (amanta)\nNak
+ shatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Posh Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 13:02 local)\nMonth: Posh (amanta)\nN
+ akshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Posh Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 13:59 local)\nMonth: Posh (amanta)\nNa
+ kshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Posh Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 14:13 local)\nMonth: Posh (amanta)\nNak
+ shatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Posh Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 13:43 local)\nMonth: Posh (amanta)\nNa
+ kshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Posh Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 12:27 local)\nMonth: Posh (amanta)\nNaksh
+ atra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Posh Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 10:27 local)\nMonth: Posh (amanta)\nNak
+ shatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Posh Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 07:49 local)\nMonth: Posh (amanta)\n
+ Nakshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Posh Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 01:12 local)\nMonth: Posh (amanta)\nNak
+ shatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Posh Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 21:30 local)\nMonth: Posh (amanta)\nN
+ akshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Posh Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 17:47 local)\nMonth: Posh (amanta)\nNak
+ shatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Posh Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 14:13 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Posh Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 10:57 local)\nMonth: Posh (amanta)\nNaksh
+ atra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Posh Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 08:10 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Posh Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 04:33 local)\nMonth: Posh (amanta)\nN
+ akshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Posh Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 03:54 local)\nMonth: Posh (amanta)\nNa
+ kshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Posh Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 04:03 local)\nMonth: Posh (amanta)\nNak
+ shatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Posh Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 04:58 local)\nMonth: Posh (amanta)\nNa
+ kshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Posh Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 06:34 local)\nMonth: Posh (amanta)\nNaksh
+ atra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Posh Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 08:41 local)\nMonth: Posh (amanta)\nNak
+ shatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Posh Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 08:41 local)\nMonth: Posh (amanta)\nNak
+ shatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Posh Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 11:10 local)\nMonth: Posh (amanta)\n
+ Nakshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Posh Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 13:50 local)\nMonth: Posh (amanta)\nNak
+ shatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Posh Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 16:31 local)\nMonth: Posh (amanta)\nNak
+ shatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Posh Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 19:05 local)\nMonth: Posh (amanta)\nN
+ akshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Posh Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 21:26 local)\nMonth: Posh (amanta)\nNaks
+ hatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Maha Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 23:27 local)\nMonth: Maha (amanta)\nNaks
+ hatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Maha Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 01:06 local)\nMonth: Maha (amanta)\nNaksh
+ atra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Maha Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 02:20 local)\nMonth: Maha (amanta)\nNaks
+ hatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Maha Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 03:05 local)\nMonth: Maha (amanta)\nNak
+ shatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Maha Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 03:18 local)\nMonth: Maha (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Maha Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 02:59 local)\nMonth: Maha (amanta)\nNa
+ kshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Maha Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 02:07 local)\nMonth: Maha (amanta)\nNak
+ shatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Maha Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 00:41 local)\nMonth: Maha (amanta)\nNa
+ kshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Maha Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 22:44 local)\nMonth: Maha (amanta)\nNaksh
+ atra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Maha Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 20:19 local)\nMonth: Maha (amanta)\nNak
+ shatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Maha Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 17:32 local)\nMonth: Maha (amanta)\n
+ Nakshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Maha Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 14:28 local)\nMonth: Maha (amanta)\nNak
+ shatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Maha Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 11:14 local)\nMonth: Maha (amanta)\nNak
+ shatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Maha Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 08:00 local)\nMonth: Maha (amanta)\nN
+ akshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Maha Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 02:03 local)\nMonth: Maha (amanta)\nNaks
+ hatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Maha Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 23:39 local)\nMonth: Maha (amanta)\nNaksh
+ atra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Maha Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 21:49 local)\nMonth: Maha (amanta)\nNaks
+ hatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Maha Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 20:40 local)\nMonth: Maha (amanta)\nNak
+ shatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Maha Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 20:18 local)\nMonth: Maha (amanta)\nN
+ akshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Maha Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 20:43 local)\nMonth: Maha (amanta)\nNa
+ kshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Maha Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 21:55 local)\nMonth: Maha (amanta)\nNak
+ shatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Maha Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 23:46 local)\nMonth: Maha (amanta)\nNa
+ kshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Maha Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 02:07 local)\nMonth: Maha (amanta)\nNaksh
+ atra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Maha Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 04:44 local)\nMonth: Maha (amanta)\nNak
+ shatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Maha Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 07:24 local)\nMonth: Maha (amanta)\n
+ Nakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Maha Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 07:24 local)\nMonth: Maha (amanta)\n
+ Nakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Maha Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 09:54 local)\nMonth: Maha (amanta)\nNak
+ shatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Maha Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 12:04 local)\nMonth: Maha (amanta)\nNak
+ shatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Maha Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 13:46 local)\nMonth: Maha (amanta)\nN
+ akshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Maha Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 14:59 local)\nMonth: Maha (amanta)\nNaks
+ hatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Fagan Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 15:41 local)\nMonth: Fagan (amanta)\nNak
+ shatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Fagan Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 15:53 local)\nMonth: Fagan (amanta)\nNaks
+ hatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Fagan Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 15:37 local)\nMonth: Fagan (amanta)\nNak
+ shatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Fagan Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 14:57 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Fagan Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 13:55 local)\nMonth: Fagan (amanta)\n
+ Nakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Fagan Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 12:32 local)\nMonth: Fagan (amanta)\nN
+ akshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Fagan Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 10:51 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Fagan Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 08:54 local)\nMonth: Fagan (amanta)\nN
+ akshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Fagan Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 04:21 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Fagan Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 01:51 local)\nMonth: Fagan (amanta)\
+ nNakshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Fagan Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 23:17 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Fagan Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 20:45 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Fagan Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 18:22 local)\nMonth: Fagan (amanta)\n
+ Nakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Fagan Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 16:13 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Fagan Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 14:28 local)\nMonth: Fagan (amanta)\nNak
+ shatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Fagan Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 13:14 local)\nMonth: Fagan (amanta)\nNaks
+ hatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Fagan Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 12:38 local)\nMonth: Fagan (amanta)\nNak
+ shatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Fagan Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 12:43 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Fagan Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 13:33 local)\nMonth: Fagan (amanta)\n
+ Nakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Fagan Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 15:05 local)\nMonth: Fagan (amanta)\nN
+ akshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Fagan Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 17:11 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Fagan Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 19:40 local)\nMonth: Fagan (amanta)\nN
+ akshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Fagan Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 22:16 local)\nMonth: Fagan (amanta)\nNaks
+ hatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Fagan Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 00:45 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 83
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Fagan Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 02:52 local)\nMonth: Fagan (amanta)\
+ nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Fagan Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 04:27 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Fagan Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 05:23 local)\nMonth: Fagan (amanta)\nNa
+ kshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Fagan Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 05:40 local)\nMonth: Fagan (amanta)\n
+ Nakshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi)
+ : 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Fagan Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 05:21 local)\nMonth: Fagan (amanta)\nNak
+ shatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2083
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Chaitra Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 04:29 local)\nMonth: Chaitra (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Chaitra Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 03:10 local)\nMonth: Chaitra (amanta)\nNa
+ kshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Chaitra Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 01:32 local)\nMonth: Chaitra (amanta)\nN
+ akshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Chaitra Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 23:40 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Chaitra Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 21:40 local)\nMonth: Chaitra (amanta)
+ \nNakshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Chaitra Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 19:35 local)\nMonth: Chaitra (amanta)\
+ nNakshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Chaitra Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 17:29 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Chaitra Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 15:24 local)\nMonth: Chaitra (amanta)\
+ nNakshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Chaitra Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 13:21 local)\nMonth: Chaitra (amanta)\nNa
+ kshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Chaitra Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 11:22 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Chaitra Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 09:28 local)\nMonth: Chaitra (amanta
+ )\nNakshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Chaitra Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 07:42 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Chaitra Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 04:51 local)\nMonth: Chaitra (amanta)
+ \nNakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Chaitra Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 03:57 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Chaitra Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 03:30 local)\nMonth: Chaitra (amanta)\nN
+ akshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Chaitra Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 03:37 local)\nMonth: Chaitra (amanta)\nNa
+ kshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Chaitra Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 04:21 local)\nMonth: Chaitra (amanta)\nN
+ akshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Chaitra Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 05:42 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Chaitra Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 07:37 local)\nMonth: Chaitra (amanta)
+ \nNakshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Chaitra Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 07:37 local)\nMonth: Chaitra (amanta)
+ \nNakshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Chaitra Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 09:57 local)\nMonth: Chaitra (amanta)\
+ nNakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Chaitra Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 12:31 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Chaitra Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 15:01 local)\nMonth: Chaitra (amanta)\
+ nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Chaitra Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 17:14 local)\nMonth: Chaitra (amanta)\nNa
+ kshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Chaitra Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 18:54 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Chaitra Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 19:52 local)\nMonth: Chaitra (amanta
+ )\nNakshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitra
+ di): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Chaitra Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 20:04 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi
+ ): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:Chaitra Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 19:31 local)\nMonth: Chaitra (amanta)\n
+ Nakshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Chaitra Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 18:17 local)\nMonth: Chaitra (amanta)
+ \nNakshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Chaitra Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 16:28 local)\nMonth: Chaitra (amanta)\nN
+ akshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Vaishakh Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 14:14 local)\nMonth: Vaishakh (amanta)\n
+ Nakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Vaishakh Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 11:43 local)\nMonth: Vaishakh (amanta)\nN
+ akshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Vaishakh Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 09:03 local)\nMonth: Vaishakh (amanta)\n
+ Nakshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Vaishakh Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 06:23 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Vaishakh Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 01:24 local)\nMonth: Vaishakh (amanta)
+ \nNakshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Vaishakh Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 23:13 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Vaishakh Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 21:18 local)\nMonth: Vaishakh (amanta)
+ \nNakshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Vaishakh Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 19:39 local)\nMonth: Vaishakh (amanta)\nN
+ akshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Vaishakh Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 18:18 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Vaishakh Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 17:13 local)\nMonth: Vaishakh (amant
+ a)\nNakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitra
+ di): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Vaishakh Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 16:28 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Vaishakh Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 16:04 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Vaishakh Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 16:03 local)\nMonth: Vaishakh (amanta
+ )\nNakshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Vaishakh Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 16:29 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Vaishakh Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 17:23 local)\nMonth: Vaishakh (amanta)\n
+ Nakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Vaishakh Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 18:48 local)\nMonth: Vaishakh (amanta)\nN
+ akshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Vaishakh Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 20:42 local)\nMonth: Vaishakh (amanta)\n
+ Nakshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Vaishakh Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 22:59 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Vaishakh Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 01:31 local)\nMonth: Vaishakh (amanta
+ )\nNakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi
+ ): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Vaishakh Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 04:05 local)\nMonth: Vaishakh (amanta)
+ \nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Vaishakh Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 06:26 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Vaishakh Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 06:26 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Vaishakh Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 08:20 local)\nMonth: Vaishakh (amanta)
+ \nNakshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Vaishakh Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 09:35 local)\nMonth: Vaishakh (amanta)\nN
+ akshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Vaishakh Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 10:02 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitrad
+ i): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Vaishakh Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 09:40 local)\nMonth: Vaishakh (amant
+ a)\nNakshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Vaishakh Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 08:29 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Vaishakh Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 06:35 local)\nMonth: Vaishakh (amanta)\
+ nNakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Vaishakh Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 01:10 local)\nMonth: Vaishakh (amanta)\n
+ Nakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Jeth Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 21:59 local)\nMonth: Jeth (amanta)\nNaks
+ hatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Jeth Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 18:41 local)\nMonth: Jeth (amanta)\nNaksh
+ atra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Jeth Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 15:26 local)\nMonth: Jeth (amanta)\nNaks
+ hatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Jeth Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 12:22 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Jeth Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 09:35 local)\nMonth: Jeth (amanta)\nN
+ akshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Jeth Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 07:11 local)\nMonth: Jeth (amanta)\nNa
+ kshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Jeth Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 03:45 local)\nMonth: Jeth (amanta)\nNa
+ kshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:Jeth Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 02:44 local)\nMonth: Jeth (amanta)\nNaksh
+ atra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:Jeth Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 02:12 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Jeth Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 02:08 local)\nMonth: Jeth (amanta)\n
+ Nakshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Jeth Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 02:31 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Jeth Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 03:20 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Jeth Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 04:35 local)\nMonth: Jeth (amanta)\nN
+ akshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Jeth Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 06:14 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Jeth Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 06:14 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Jeth Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 08:15 local)\nMonth: Jeth (amanta)\nNaks
+ hatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Jeth Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 10:35 local)\nMonth: Jeth (amanta)\nNaksh
+ atra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Jeth Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 13:07 local)\nMonth: Jeth (amanta)\nNaks
+ hatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Jeth Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 15:43 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Jeth Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 18:10 local)\nMonth: Jeth (amanta)\nN
+ akshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Jeth Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 20:17 local)\nMonth: Jeth (amanta)\nNa
+ kshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Jeth Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 21:52 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:Jeth Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 22:45 local)\nMonth: Jeth (amanta)\nNa
+ kshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Jeth Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 22:49 local)\nMonth: Jeth (amanta)\nNaksh
+ atra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Jeth Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 22:04 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Jeth Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 20:31 local)\nMonth: Jeth (amanta)\n
+ Nakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Jeth Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 18:15 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Jeth Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 15:23 local)\nMonth: Jeth (amanta)\nNak
+ shatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Jeth Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 12:06 local)\nMonth: Jeth (amanta)\nN
+ akshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Jeth Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 08:32 local)\nMonth: Jeth (amanta)\nNaks
+ hatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Ashadh Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 01:14 local)\nMonth: Ashadh (amanta)\nNak
+ shatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Ashadh Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 21:49 local)\nMonth: Ashadh (amanta)\nNa
+ kshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Ashadh Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 18:44 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Ashadh Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 16:07 local)\nMonth: Ashadh (amanta)\
+ nNakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Ashadh Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 14:04 local)\nMonth: Ashadh (amanta)\n
+ Nakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Ashadh Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 12:37 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Ashadh Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 11:50 local)\nMonth: Ashadh (amanta)\n
+ Nakshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Ashadh Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 11:41 local)\nMonth: Ashadh (amanta)\nNak
+ shatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Ashadh Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 12:09 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Ashadh Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 13:10 local)\nMonth: Ashadh (amanta)
+ \nNakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Ashadh Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 14:40 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Ashadh Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 16:35 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Ashadh Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 18:48 local)\nMonth: Ashadh (amanta)\
+ nNakshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Ashadh Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 21:14 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Ashadh Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 23:48 local)\nMonth: Ashadh (amanta)\nNa
+ kshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Ashadh Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 02:21 local)\nMonth: Ashadh (amanta)\nNak
+ shatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Ashadh Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 04:47 local)\nMonth: Ashadh (amanta)\nNa
+ kshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Ashadh Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 06:56 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Ashadh Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 06:56 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:Ashadh Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 08:41 local)\nMonth: Ashadh (amanta)\
+ nNakshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitrad
+ i): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Ashadh Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 09:53 local)\nMonth: Ashadh (amanta)\n
+ Nakshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Ashadh Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 10:25 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Ashadh Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 10:13 local)\nMonth: Ashadh (amanta)\n
+ Nakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Ashadh Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 09:15 local)\nMonth: Ashadh (amanta)\nNak
+ shatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Ashadh Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 07:34 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Ashadh Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 02:18 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Ashadh Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 22:58 local)\nMonth: Ashadh (amanta)\nN
+ akshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:Ashadh Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 19:20 local)\nMonth: Ashadh (amanta)\
+ nNakshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Ashadh Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 15:35 local)\nMonth: Ashadh (amanta)\nNa
+ kshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Shravan Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 11:51 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Shravan Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 08:20 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Shravan Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 02:27 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Shravan Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 00:23 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi
+ ): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:Shravan Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 23:01 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Shravan Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 22:24 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Shravan Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 22:34 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Shravan Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 23:28 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Shravan Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 00:59 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Shravan Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 03:00 local)\nMonth: Shravan (amanta
+ )\nNakshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Shravan Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 05:21 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Shravan Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 07:54 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Shravan Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 07:54 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Shravan Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 10:29 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Shravan Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 12:58 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Shravan Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 15:16 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Shravan Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 17:16 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Shravan Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 18:53 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi):
+  2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Shravan Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 20:05 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi
+ ): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:Shravan Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 20:45 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Shravan Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 20:53 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Shravan Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 20:25 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Shravan Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 19:20 local)\nMonth: Shravan (amanta)\
+ nNakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Shravan Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 17:39 local)\nMonth: Shravan (amanta)\nNa
+ kshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Shravan Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 15:25 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Shravan Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 12:42 local)\nMonth: Shravan (amanta
+ )\nNakshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:Shravan Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 09:36 local)\nMonth: Shravan (amanta)\n
+ Nakshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Shravan Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 02:41 local)\nMonth: Shravan (amanta)
+ \nNakshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Shravan Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 23:11 local)\nMonth: Shravan (amanta)\nN
+ akshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Bhadarvo Sud Ekam · VS 2083
+DESCRIPTION:Tithi: Sud Ekam (ends 19:50 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Bhadarvo Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 16:50 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:Bhadarvo Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 14:19 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:Bhadarvo Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 12:26 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:Bhadarvo Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 11:17 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Bhadarvo Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 10:58 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Bhadarvo Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 11:28 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Bhadarvo Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 12:44 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Bhadarvo Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 14:39 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Bhadarvo Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 17:00 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:Bhadarvo Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 19:36 local)\nMonth: Bhadarvo (amant
+ a)\nNakshatra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitrad
+ i): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:Bhadarvo Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 22:13 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:Bhadarvo Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 00:40 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Bhadarvo Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 02:48 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Bhadarvo Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 04:33 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Bhadarvo Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 05:52 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi)
+ : 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Bhadarvo Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 06:44 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi)
+ : 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:Bhadarvo Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 06:44 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:Bhadarvo Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 07:09 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Bhadarvo Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 07:09 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Bhadarvo Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 06:43 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:Bhadarvo Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 04:37 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Bhadarvo Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 02:57 local)\nMonth: Bhadarvo (amanta)
+ \nNakshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 
+ 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Bhadarvo Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 00:55 local)\nMonth: Bhadarvo (amanta)\nN
+ akshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Bhadarvo Vad Dasam · VS 2083
+DESCRIPTION:Tithi: Vad Dasam (ends 22:31 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Bhadarvo Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 19:49 local)\nMonth: Bhadarvo (amant
+ a)\nNakshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Bhadarvo Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 16:55 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:Bhadarvo Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 13:55 local)\nMonth: Bhadarvo (amanta)\
+ nNakshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Bhadarvo Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 10:55 local)\nMonth: Bhadarvo (amanta
+ )\nNakshatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitrad
+ i): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Bhadarvo Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 08:06 local)\nMonth: Bhadarvo (amanta)\n
+ Nakshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Aaso Sud Bij · VS 2083
+DESCRIPTION:Tithi: Sud Bij (ends 03:33 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-02-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:Aaso Sud Trij · VS 2083
+DESCRIPTION:Tithi: Sud Trij (ends 02:09 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Swati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-03-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:Aaso Sud Choth · VS 2083
+DESCRIPTION:Tithi: Sud Choth (ends 01:28 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Vishakha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-04-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:Aaso Sud Pancham · VS 2083
+DESCRIPTION:Tithi: Sud Pancham (ends 01:36 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Anuradha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-05-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Aaso Sud Chhath · VS 2083
+DESCRIPTION:Tithi: Sud Chhath (ends 02:33 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Jyeshtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-06-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:Aaso Sud Satam · VS 2083
+DESCRIPTION:Tithi: Sud Satam (ends 04:13 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Mula\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-07-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:Aaso Sud Aatham · VS 2083
+DESCRIPTION:Tithi: Sud Aatham (ends 06:28 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-08-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Aaso Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 09:02 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Purva Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-09-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:Aaso Sud Nom · VS 2083
+DESCRIPTION:Tithi: Sud Nom (ends 09:02 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Uttara Ashadha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-10-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Aaso Sud Dasam · VS 2083
+DESCRIPTION:Tithi: Sud Dasam (ends 11:41 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Shravana\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-11-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:Aaso Sud Agiyaras · VS 2083
+DESCRIPTION:Tithi: Sud Agiyaras (ends 14:09 local)\nMonth: Aaso (amanta)\n
+ Nakshatra: Dhanishtha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-12-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Aaso Sud Baras · VS 2083
+DESCRIPTION:Tithi: Sud Baras (ends 16:14 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Shatabhisha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-13-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:Aaso Sud Teras · VS 2083
+DESCRIPTION:Tithi: Sud Teras (ends 17:48 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Purva Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2
+ 084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-14-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Aaso Sud Chaudas · VS 2083
+DESCRIPTION:Tithi: Sud Chaudas (ends 18:49 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Uttara Bhadrapada\nGujarati Samvat: 2083  |  Vikram (Chaitradi)
+ : 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-15-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Aaso Sud Punam · VS 2083
+DESCRIPTION:Tithi: Sud Punam (ends 19:16 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Revati\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-16-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:Aaso Vad Ekam · VS 2083
+DESCRIPTION:Tithi: Vad Ekam (ends 19:13 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Ashwini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-17-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Aaso Vad Bij · VS 2083
+DESCRIPTION:Tithi: Vad Bij (ends 18:43 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Bharani\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-18-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:Aaso Vad Trij · VS 2083
+DESCRIPTION:Tithi: Vad Trij (ends 17:52 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Krittika\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-19-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:Aaso Vad Choth · VS 2083
+DESCRIPTION:Tithi: Vad Choth (ends 16:42 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Rohini\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-20-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:Aaso Vad Pancham · VS 2083
+DESCRIPTION:Tithi: Vad Pancham (ends 15:18 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Mrigashirsha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-21-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:Aaso Vad Chhath · VS 2083
+DESCRIPTION:Tithi: Vad Chhath (ends 13:43 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Ardra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-22-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Aaso Vad Satam · VS 2083
+DESCRIPTION:Tithi: Vad Satam (ends 11:56 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Punarvasu\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-23-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Aaso Vad Aatham · VS 2083
+DESCRIPTION:Tithi: Vad Aatham (ends 09:59 local)\nMonth: Aaso (amanta)\nNa
+ kshatra: Pushya\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-24-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:Aaso Vad Nom · VS 2083
+DESCRIPTION:Tithi: Vad Nom (ends 07:53 local)\nMonth: Aaso (amanta)\nNaksh
+ atra: Ashlesha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-25-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:Aaso Vad Agiyaras · VS 2083
+DESCRIPTION:Tithi: Vad Agiyaras (ends 03:22 local)\nMonth: Aaso (amanta)\n
+ Nakshatra: Magha\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-26-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:Aaso Vad Baras · VS 2083
+DESCRIPTION:Tithi: Vad Baras (ends 01:03 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Purva Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 208
+ 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-27-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:Aaso Vad Teras · VS 2083
+DESCRIPTION:Tithi: Vad Teras (ends 22:50 local)\nMonth: Aaso (amanta)\nNak
+ shatra: Uttara Phalguni\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 20
+ 84
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-28-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:Aaso Vad Chaudas · VS 2083
+DESCRIPTION:Tithi: Vad Chaudas (ends 20:48 local)\nMonth: Aaso (amanta)\nN
+ akshatra: Hasta\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-29-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Aaso Vad Amas · VS 2083
+DESCRIPTION:Tithi: Vad Amas (ends 19:06 local)\nMonth: Aaso (amanta)\nNaks
+ hatra: Chitra\nGujarati Samvat: 2083  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-30-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Kartak Sud Ekam · VS 2084
+DESCRIPTION:Tithi: Sud Ekam (ends 17:52 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Swati\nGujarati Samvat: 2084  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-31-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Kartak Sud Bij · VS 2084
+DESCRIPTION:Tithi: Sud Bij (ends 17:13 local)\nMonth: Kartak (amanta)\nNak
+ shatra: Vishakha\nGujarati Samvat: 2084  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-01-guj-panchang@github-pages
+DTSTAMP:20260828T175927Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Kartak Sud Trij · VS 2084
+DESCRIPTION:Tithi: Sud Trij (ends 17:15 local)\nMonth: Kartak (amanta)\nNa
+ kshatra: Anuradha\nGujarati Samvat: 2084  |  Vikram (Chaitradi): 2084
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
