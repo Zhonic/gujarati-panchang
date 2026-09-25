@@ -19,7 +19,8 @@ CSV (see below).
 ## Layout
 
 - `build_ics.py` — generator. Reads the engine, writes the feed. No hardcoded
-  dates; the window is always 5 days back to ~430 days ahead of the run date.
+  dates; the window is always 1 Jan of the run year through 31 Dec of the
+  following year (`PANCHANG_YEARS_AHEAD`, default 1).
 - `festivals.csv` — curated festival dates (`date,name`), Ahmedabad reckoning.
   The generator loads this and emits one extra all-day event per row that falls
   inside the window.
@@ -109,14 +110,15 @@ construction. There are two recurring jobs.
 
 ### To-Do 1 — Yearly refresh (append the next year before the horizon runs out)
 
-The feed window reaches ~430 days ahead of the run date. `festivals.csv`
-currently covers **VS 2082–2083 (2026–2027)**, through early November 2027. As
-real time advances, the tail of the CSV moves inside the window and eventually
-runs out; once the latest CSV date is fewer than ~430 days ahead of today, some
-future days will have no festivals.
+The feed window spans 1 Jan of the run year through 31 Dec of the following
+year, and jumps forward a full year on 1 January. `festivals.csv` currently
+covers **VS 2082–2083 (2026–2027)**, from late August 2026 through early
+November 2027. On 1 Jan 2027 the window becomes 2027–2028, so any 2028 festival
+missing from the CSV shows up as a gap immediately.
 
-Task, to be done roughly once a year (target: before **mid-2027**, so the
-2027–2028 rows exist well before the 2027 tail enters the window):
+Task, to be done once a year (target: before **31 December** of each year, so
+the year-after-next rows exist before the window rolls; first deadline
+**end of 2026**, for the 2028 rows):
 
 1. Determine the festival dates for the next Gujarati year (VS 2084 / 2028) for
    the same festival set already in the CSV.

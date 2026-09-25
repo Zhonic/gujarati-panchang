@@ -22,8 +22,9 @@ Festival dates are **not** computed; they are curated in `festivals.csv` (see
 ## What computes what
 
 - `build_ics.py` — reads the engine, loads `festivals.csv`, and writes the
-  `.ics`. No hardcoded dates; it always spans 5 days back to ~430 days ahead of
-  the run date.
+  `.ics`. No hardcoded dates; it always spans the whole current year and the
+  whole next year (1 Jan this year → 31 Dec next year), so past days earlier in
+  the year keep their panchang and festival events.
 - `festivals.csv` — hand-curated festival dates for Ahmedabad reckoning.
 - `.github/workflows/panchang.yml` — installs `pyswisseph`, clones the pinned
   engine, runs the generator, and commits the feed only when it changes.
@@ -123,8 +124,8 @@ date,name
 - Several rows may share a date (e.g. a Navratri night and Durgashtami).
 - Lines starting with `#`, blank lines, and the header are ignored. The comment
   block at the top records provenance and the dates still to be confirmed.
-- A row dated beyond the ~430-day window is simply skipped until it comes into
-  range, so it is safe to add future dates early.
+- A row dated outside the window (this year + next year) is simply skipped until
+  it comes into range, so it is safe to add future dates early.
 
 After editing, commit the file; the next Action run (or a local rebuild)
 regenerates the feed. No other change is needed.
@@ -143,9 +144,10 @@ if needed:
 
 ### Yearly refresh
 
-The CSV covers 2026–2027. Before the 2027 tail enters the window (aim for
-mid-2027), append the next Gujarati year's rows, each verified against
-drikpanchang.com for Ahmedabad. This is the one deliberate manual step; keeping
+The CSV covers late August 2026 through November 2027. The window rolls to
+"this year + next year" every 1 January, so before each 31 December append the
+rows for the year after next (first deadline: end of 2026, for 2028), each
+verified against drikpanchang.com for Ahmedabad. This is the one deliberate manual step; keeping
 it manual is what prevents the wrong-Diwali risk that automatic computation
 carries.
 

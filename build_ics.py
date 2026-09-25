@@ -20,8 +20,8 @@ import panchanga as P
 LAT = float(os.environ.get("PANCHANG_LAT", "23.0225"))       # Ahmedabad
 LON = float(os.environ.get("PANCHANG_LON", "72.5714"))
 TZ = float(os.environ.get("PANCHANG_TZ", "5.5"))
-DAYS_AHEAD = int(os.environ.get("PANCHANG_DAYS_AHEAD", "430"))
-DAYS_BACK = int(os.environ.get("PANCHANG_DAYS_BACK", "5"))
+# Window spans 1 Jan of the run year through 31 Dec of the run year + YEARS_AHEAD.
+YEARS_AHEAD = int(os.environ.get("PANCHANG_YEARS_AHEAD", "1"))
 CAL_NAME = os.environ.get("PANCHANG_CAL_NAME", "Gujarati Panchang")
 OUT_PATH = os.environ.get("PANCHANG_OUT", "docs/gujarati-panchang.ics")
 FESTIVALS_CSV = os.environ.get("PANCHANG_FESTIVALS_CSV", "festivals.csv")
@@ -128,8 +128,8 @@ def slugify(name):
 
 def main():
     today = date.today()
-    start = today - timedelta(days=DAYS_BACK)
-    end = today + timedelta(days=DAYS_AHEAD)
+    start = date(today.year, 1, 1)
+    end = date(today.year + YEARS_AHEAD, 12, 31)
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     festivals = load_festivals(FESTIVALS_CSV)
 
@@ -180,7 +180,8 @@ def main():
     out_dir = os.path.dirname(OUT_PATH)
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
-    with open(OUT_PATH, "w", encoding="utf-8") as handle:
+    # newline="" keeps the explicit CRLFs intact on Windows (no \r\r\n).
+    with open(OUT_PATH, "w", encoding="utf-8", newline="") as handle:
         handle.write("\r\n".join(lines) + "\r\n")
     print(f"Wrote {count} days to {OUT_PATH}")
 

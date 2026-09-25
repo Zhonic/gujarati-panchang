@@ -1,11 +1,13 @@
 name: Build Gujarati panchang feed
 
 # Regenerates docs/gujarati-panchang.ics and commits it when it changes.
-# Runs weekly (keeps the ~14-month horizon rolling forward), on every push to
-# main, and on demand from the Actions tab.
+# The feed covers the whole current year plus the whole next year. Runs weekly
+# (refreshes the feed), on 1 January (rolls the window to the new year at once),
+# on every push to main, and on demand from the Actions tab.
 on:
   schedule:
     - cron: "0 20 * * 0"   # Sundays 20:00 UTC
+    - cron: "10 0 1 1 *"   # 1 January 00:10 UTC
   push:
     branches: [main]
   workflow_dispatch:
