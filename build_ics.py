@@ -12,6 +12,7 @@ matches the standard Gujarat panchang and Drik Panchang's default.
 
 import csv
 import os
+import re
 from datetime import date, timedelta, datetime, timezone
 
 import panchanga as P
@@ -25,6 +26,17 @@ YEARS_AHEAD = int(os.environ.get("PANCHANG_YEARS_AHEAD", "1"))
 CAL_NAME = os.environ.get("PANCHANG_CAL_NAME", "Gujarati Panchang")
 OUT_PATH = os.environ.get("PANCHANG_OUT", "docs/gujarati-panchang.ics")
 FESTIVALS_CSV = os.environ.get("PANCHANG_FESTIVALS_CSV", "festivals.csv")
+# Festival reminders: days before the festival, each firing at REMINDER_HOUR
+# local time on the device. 0 is the on-day reminder. Daily events get none.
+# The on-day reminder stays in the feed: Apple clients add their own default
+# alert only to events with no VALARM, so it never doubles up.
+REMINDER_DAYS = [int(x) for x in
+                 os.environ.get("PANCHANG_REMINDER_DAYS", "30,7,1,0").split(",")
+                 if x.strip()]
+REMINDER_HOUR = int(os.environ.get("PANCHANG_REMINDER_HOUR", "9"))
+# Festivals that get only the on-day reminder. Navratri nights 2-9 follow on
+# from Night 1, whose advance reminders already cover the festival.
+ON_DAY_ONLY = re.compile(r"^Navratri Night [2-9]\b")
 # ------------------------------------------------------------------------
 
 PLACE = P.Place(LAT, LON, TZ)
@@ -72,6 +84,39 @@ def esc(text):
     """Escape a text value for an iCalendar property per RFC 5545."""
     return (text.replace("\\", "\\\\").replace(";", "\\;")
             .replace(",", "\\,").replace("\n", "\\n"))
+
+
+def alarm_trigger(days_before, hour):
+    """Return a TRIGGER duration firing at hour:00, days_before days ahead.
+
+    All-day events start at local midnight, so the trigger is the signed
+    offset from that midnight: 30 days before at 09:00 is -P29DT15H, and the
+    same day at 09:00 is PT9H.
+    """
+    hours_before = days_before * 24 - hour
+    if hours_before <= 0:
+        return f"PT{-hours_before}H"
+    days, hours = divmod(hours_before, 24)
+    return "-P" + (f"{days}D" if days else "") + (f"T{hours}H" if hours else "")
+
+
+def alarm_lines(name):
+    """Return VALARM lines for a festival, one per configured reminder."""
+    days = REMINDER_DAYS
+    if ON_DAY_ONLY.match(name):
+        days = [d for d in REMINDER_DAYS if d == 0]
+    lines = []
+    for days_before in days:
+        when = {0: "today", 1: "tomorrow"}.get(days_before,
+                                               f"in {days_before} days")
+        lines += [
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            f"TRIGGER:{alarm_trigger(days_before, REMINDER_HOUR)}",
+            fold(f"DESCRIPTION:{esc(f'{name} {when}')}"),
+            "END:VALARM",
+        ]
+    return lines
 
 
 def day_record(d):
@@ -170,6 +215,7 @@ def main():
                 fold(f"SUMMARY:{esc(name)}"),
                 "CATEGORIES:Festival",
                 "TRANSP:TRANSPARENT",
+                *alarm_lines(name),
                 "END:VEVENT",
             ]
         count += 1

@@ -75,8 +75,13 @@ Calendar**, then paste:
 ```
 https://<your-username>.github.io/gujarati-panchang/gujarati-panchang.ics
 ```
-Tap **Next → Save**. It appears as its own calendar named *Gujarati Panchang*.
-(Tapping a `webcal://…` version of the same URL in Safari also works.)
+Tap **Next**, then **turn off "Remove Alerts"** (it is on by default and would
+silence the festival reminders), then **Save**. It appears as its own calendar
+named *Gujarati Panchang*. (Tapping a `webcal://…` version of the same URL in
+Safari also works.)
+
+Already subscribed? **Settings → Calendar → Accounts → Subscribed Calendars →
+Gujarati Panchang** and turn off **Remove Alerts** there.
 
 Done. The Action keeps the file fresh; iOS refetches it on its own schedule.
 
@@ -92,14 +97,33 @@ Chaturdashi, Mahalaya Amavasya, all nine Navratri nights, Durgashtami, Dussehra,
 Sharad Purnima, and the full Diwali cluster (Dhanteras, Kali Chaudas, Diwali,
 Bestu Varas, Bhai Bij, Labh Pancham).
 
+### Festival reminders
+
+Each festival event carries four reminders, all at 09:00 phone-local time:
+**30 days before, 7 days before, the day before, and on the day** (e.g.
+"Diwali (Lakshmi Puja) in 30 days" … "Diwali (Lakshmi Puja) today").
+Navratri Nights 2–9 get only the on-day reminder, since Night 1's advance
+reminders already cover the festival. The daily panchang events have no
+reminders. iOS only fires them when "Remove Alerts" is off on the subscription
+(see setup step 4).
+
+The on-day reminder does not double up with the iPhone's **Default Alert Times
+→ All-Day Events** setting: Apple applies that default only to events that
+carry no reminders of their own, so festival events use the feed's reminders
+and the daily events use the phone's default.
+
+To change them, set `PANCHANG_REMINDER_DAYS` (comma-separated days before,
+default `30,7,1,0`) and/or `PANCHANG_REMINDER_HOUR` (default `9`) in the
+workflow's `env:` block.
+
 ### Why festivals are curated, not computed
 
 The panchang engine can generate festivals, but it approximates the time-of-day
 rules real festivals use (pradosh, madhyahna, aparahna) with a sunrise rule, and
 lands a day late on several majors (Diwali, Ganesh Chaturthi, Dussehra). A wrong
 Diwali is worse than none, so festival dates live in a hand-verified file
-instead. They are cross-checked against multiple panchang sources, several of
-which reconcile against Drik Panchang.
+instead. Every date is verified against the Drik Panchang Gujarati calendar
+for Ahmedabad, with other panchangs used to corroborate.
 
 ### A quirk that is not a bug
 
@@ -136,17 +160,20 @@ A few dates are genuine one-day splits between panchang sources, flagged in the
 CSV header comments. Confirm these against your family / temple and edit the row
 if needed:
 
-- **Durgashtami 2026** — used 18 Oct (8th garba night); some place Ashtami puja 19 Oct.
-- **Bestu Varas 2026** — used 10 Nov (matches the feed's Kartak Sud Ekam); some observe 9 Nov.
-- **Uttarayan 2027** — used 14 Jan (Gujarat kite day); the astronomical Sankranti may be 15 Jan.
-- **Maha Shivratri 2027** — used 6 Mar; some sources 7 Mar.
-- **Sharad Purnima 2026, Guru Purnima 2027, Nag Panchami 2027** — lower confidence, verify when convenient.
+- **Durgashtami 2026** — used 18 Oct (8th garba night); Drik places Durga Ashtami on 19 Oct.
+- **Bestu Varas 2026** — used 10 Nov (matches Drik and the feed's Kartak Sud Ekam); some observe 9 Nov.
+- **Uttarayan 2027** — used 14 Jan (Gujarat kite day); Drik's Makar Sankranti is 15 Jan.
+- **Uttarayan 2028** — used 15 Jan (Drik); the kite day may be kept on 14 Jan.
+- **Ram Navami 2026 / 2028** — used Drik's Smarta date (26 Mar / 3 Apr); Vaishnava (ISKCON) observe the next day.
+- **Holi 2027** — used Drik's 21 Mar (Holika Dahan) / 22 Mar (Dhuleti); a minority of panchangs say 22 / 23 Mar.
+- **Sharad Purnima 2027** — used Drik's 14 Oct; some sources 15 Oct.
+- **Navratri Night 9, 2028** — Drik's Day 9 is 27 Sep, the same day as Dussehra (Ashtami and Navami share 26 Sep); garba may end on the 26th.
 
 ### Yearly refresh
 
-The CSV covers late August 2026 through November 2027. The window rolls to
+The CSV covers the full years 2026, 2027 and 2028. The window rolls to
 "this year + next year" every 1 January, so before each 31 December append the
-rows for the year after next (first deadline: end of 2026, for 2028), each
+rows for the year after next (next deadline: end of 2027, for 2029), each
 verified against drikpanchang.com for Ahmedabad. This is the one deliberate manual step; keeping
 it manual is what prevents the wrong-Diwali risk that automatic computation
 carries.

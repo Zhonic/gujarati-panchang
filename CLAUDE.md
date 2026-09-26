@@ -79,6 +79,15 @@ Calendar.from_ical(open('docs/gujarati-panchang.ics','rb').read()); print('ok')"
   `DTSTART;VALUE=DATE`. Keep the feed free of hardcoded dates.
 - **CI actions are pinned** to `actions/checkout@v5` and
   `actions/setup-python@v6` (Node 24). Do not downgrade.
+- **Festival reminders are VALARMs on festival events only** (never on the
+  daily panchang events). Defaults: 30, 7, 1 and 0 days before at 09:00 device
+  local time (`PANCHANG_REMINDER_DAYS`, `PANCHANG_REMINDER_HOUR`). Triggers are
+  relative to the all-day start (local midnight), e.g. `-P29DT15H`, `PT9H`.
+  Navratri Nights 2–9 get only the on-day reminder (`ON_DAY_ONLY`). iOS only
+  fires them when "Remove Alerts" is off on the subscription. **Keep the on-day
+  (`0`) reminder in the feed:** Apple clients add the device's default alert
+  only to events with no VALARM (CalDAV default-alarm rule), so dropping it
+  would leave festivals with no on-day alert rather than avoid a duplicate.
 - **iOS refresh latency is not controllable.** Do not add hacks that claim to
   force it.
 - **Engine licence is AGPL-3.0-or-later.** Clone-and-compute in CI only; do not
@@ -112,18 +121,24 @@ construction. There are two recurring jobs.
 
 The feed window spans 1 Jan of the run year through 31 Dec of the following
 year, and jumps forward a full year on 1 January. `festivals.csv` currently
-covers **VS 2082–2083 (2026–2027)**, from late August 2026 through early
-November 2027. On 1 Jan 2027 the window becomes 2027–2028, so any 2028 festival
-missing from the CSV shows up as a gap immediately.
+covers the full calendar years **2026, 2027 and 2028** (VS 2082–2085). On
+1 Jan 2028 the window becomes 2028–2029, so any 2029 festival missing from the
+CSV shows up as a gap immediately.
 
 Task, to be done once a year (target: before **31 December** of each year, so
-the year-after-next rows exist before the window rolls; first deadline
-**end of 2026**, for the 2028 rows):
+the year-after-next rows exist before the window rolls; next deadline
+**end of 2027**, for the 2029 rows):
 
-1. Determine the festival dates for the next Gujarati year (VS 2084 / 2028) for
-   the same festival set already in the CSV.
-2. Source each date by **verifying it against `drikpanchang.com`** (Gujarati day
-   panchang, Ahmedabad / `Asia/Kolkata`). Drik is the authority. Do not compute
+1. Determine the festival dates for the next calendar year (2029) for the same
+   festival set already in the CSV.
+2. Source each date by **verifying it against `drikpanchang.com`**: the Gujarati
+   calendar page for Ahmedabad,
+   `https://www.drikpanchang.com/gujarati/calendar/gujarati-calendar.html?geoname-id=1279233&year=YYYY`.
+   Its HTML lists each festival as `dpEventName` / `dpEventGregDate`, so parse
+   the raw page rather than trusting a summariser. Navratri Night N is Drik's
+   "Navratri Day N" from
+   `https://www.drikpanchang.com/navratri/ashwin-shardiya-navratri-dates.html?year=YYYY&geoname-id=1279233`.
+   Drik is the authority. Do not compute
    from the engine, and do not trust generic aggregator sites. Web-search to
    corroborate; if a date cannot be verified, leave it out and note it rather
    than guessing.
@@ -144,17 +159,26 @@ Acceptance for the refresh:
 
 ### To-Do 2 — Lock the flagged dates
 
-Several dates in the current CSV are genuine one-day source splits or
-lower-confidence entries, listed in the CSV header comment block. When the owner
-confirms the correct date with family / temple, edit the single CSV row and drop
-that line from the header comment. Known flags at time of writing:
+Several dates in the current CSV are genuine one-day source splits, listed in
+the CSV header comment block. Every row has been checked against Drik for
+Ahmedabad; the flags are where family tradition or other panchangs may differ.
+When the owner confirms the correct date with family / temple, edit the single
+CSV row and drop that line from the header comment. Known flags at time of
+writing:
 
-- `2026-10-18` Durgashtami — some panchangs place Ashtami puja `2026-10-19`.
-- `2026-11-10` Bestu Varas — some families observe `2026-11-09`.
-- `2027-01-14` Uttarayan — astronomical Makar Sankranti may be `2027-01-15`.
-- `2027-03-06` Maha Shivratri — some sources `2027-03-07`.
-- `2026-10-25` Sharad Purnima, `2027-07-18` Guru Purnima, `2027-08-22`
-  Nag Panchami (Gujarat) — verify.
+- `2026-10-18` Durgashtami — the 8th garba night; Drik places Durga Ashtami on
+  `2026-10-19`. Deliberately kept off-Drik pending family confirmation.
+- `2026-11-10` Bestu Varas — matches Drik; some families observe `2026-11-09`.
+- `2027-01-14` Uttarayan — Gujarat kite day; Drik Makar Sankranti is
+  `2027-01-15`. Deliberately kept off-Drik pending family confirmation.
+- `2028-01-15` Uttarayan — Drik date; the kite day may be kept on `2028-01-14`.
+- `2026-03-26`, `2028-04-03` Ram Navami — Drik Smarta date; the Vaishnava
+  (ISKCON) date is the next day.
+- `2027-03-21` Holika Dahan / `2027-03-22` Dhuleti — Drik; a minority of
+  panchangs move both a day later.
+- `2027-10-14` Sharad Purnima — Drik; some sources `2027-10-15`.
+- `2028-09-27` Navratri Night 9 — Drik's Day 9 shares the date with Dussehra
+  (Ashtami and Navami both fall on `2028-09-26`); garba may end on the 26th.
 
 Do not silently change a flagged date without a source; either verify it against
 Drik / the owner's tradition, or leave it and keep the flag.

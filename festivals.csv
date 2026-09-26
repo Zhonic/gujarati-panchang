@@ -1,14 +1,27 @@
-# Gujarati festival dates, Ahmedabad reckoning, VS 2082-2083 (2026-2027).
-# Hand-curated and cross-checked against multiple panchang sources.
+# Gujarati festival dates, Ahmedabad reckoning, 2026-2028 (VS 2082-2085).
+# Every date verified against the drikpanchang.com Gujarati calendar for Ahmedabad
+# (geoname-id 1279233). Navratri Night N = Drik "Navratri Day N" for Ahmedabad.
 # Lines starting with # are ignored. Format: date,name  (date = YYYY-MM-DD Gregorian)
 #
 # CONFIRM-WITH-FAMILY items (genuine 1-day source splits):
-#   2026-10-18 Durgashtami  -- some panchangs place Ashtami puja 2026-10-19 (tithi merge)
-#   2026-11-10 Bestu Varas  -- some families observe 2026-11-09 (morning after Diwali)
-#   2027-01-14 Uttarayan    -- astronomical Makar Sankranti may compute to 2027-01-15
-#   2027-03-06 Maha Shivratri -- some sources 2027-03-07
-#   2026-10-25 Sharad Purnima, 2027-07-18 Guru Purnima, 2027-08-22 Nag Panchami -- verify
+#   2026-10-18 Durgashtami  -- 8th garba night; Drik Ahmedabad places Durga Ashtami on 2026-10-19
+#   2026-11-10 Bestu Varas  -- matches Drik; some families observe 2026-11-09 (morning after Diwali)
+#   2027-01-14 Uttarayan    -- Gujarat kite day; Drik Makar Sankranti is 2027-01-15
+#   2028-01-15 Uttarayan    -- Drik Makar Sankranti; kite day may be kept on 2028-01-14
+#   2026-03-26 / 2028-04-03 Ram Navami -- Drik Smarta date; Vaishnava (ISKCON) date is the next day
+#   2027-03-21 Holika Dahan / 2027-03-22 Dhuleti -- Drik; a minority of panchangs move both a day later
+#   2027-10-14 Sharad Purnima -- Drik; some sources 2027-10-15
+#   2028-09-27 Navratri Night 9 -- Drik Day 9 shares the date with Dussehra (Ashtami and Navami both 09-26)
 date,name
+2026-01-14,Uttarayan (Makar Sankranti)
+2026-01-23,Vasant Panchami
+2026-02-15,Maha Shivratri
+2026-03-02,Holika Dahan
+2026-03-03,Dhuleti (Holi)
+2026-03-26,Ram Navami
+2026-04-02,Hanuman Jayanti
+2026-04-19,Akshaya Tritiya
+2026-07-29,Guru Purnima
 2026-08-28,Raksha Bandhan
 2026-09-01,Nag Panchami (Gujarat)
 2026-09-04,Krishna Janmashtami
@@ -36,8 +49,8 @@ date,name
 2027-01-14,Uttarayan (Makar Sankranti)
 2027-02-11,Vasant Panchami
 2027-03-06,Maha Shivratri
-2027-03-22,Holika Dahan
-2027-03-23,Dhuleti (Holi)
+2027-03-21,Holika Dahan
+2027-03-22,Dhuleti (Holi)
 2027-04-15,Ram Navami
 2027-04-20,Hanuman Jayanti
 2027-05-09,Akshaya Tritiya
@@ -59,10 +72,43 @@ date,name
 2027-10-08,Navratri Night 9 (Siddhidatri)
 2027-10-07,Durgashtami
 2027-10-09,Dussehra (Vijayadashami)
-2027-10-15,Sharad Purnima
+2027-10-14,Sharad Purnima
 2027-10-27,Dhanteras
-2027-10-28,Kali Chaudas (Naraka Chaturdashi)
+2027-10-27,Kali Chaudas (Naraka Chaturdashi)
 2027-10-29,Diwali (Lakshmi Puja)
 2027-10-30,Bestu Varas (Gujarati New Year)
 2027-10-31,Bhai Bij
 2027-11-03,Labh Pancham
+2028-01-15,Uttarayan (Makar Sankranti)
+2028-01-31,Vasant Panchami
+2028-02-23,Maha Shivratri
+2028-03-10,Holika Dahan
+2028-03-11,Dhuleti (Holi)
+2028-04-03,Ram Navami
+2028-04-09,Hanuman Jayanti
+2028-04-27,Akshaya Tritiya
+2028-07-06,Guru Purnima
+2028-08-05,Raksha Bandhan
+2028-08-10,Nag Panchami (Gujarat)
+2028-08-13,Krishna Janmashtami
+2028-08-23,Ganesh Chaturthi
+2028-09-02,Anant Chaturdashi
+2028-09-18,Mahalaya Amavasya (Sarva Pitru)
+2028-09-19,Navratri Night 1 (Shailaputri)
+2028-09-20,Navratri Night 2 (Brahmacharini)
+2028-09-21,Navratri Night 3 (Chandraghanta)
+2028-09-22,Navratri Night 4 (Kushmanda)
+2028-09-23,Navratri Night 5 (Skandamata)
+2028-09-24,Navratri Night 6 (Katyayani)
+2028-09-25,Navratri Night 7 (Kalaratri)
+2028-09-26,Navratri Night 8 (Mahagauri)
+2028-09-27,Navratri Night 9 (Siddhidatri)
+2028-09-26,Durgashtami
+2028-09-27,Dussehra (Vijayadashami)
+2028-10-02,Sharad Purnima
+2028-10-15,Dhanteras
+2028-10-16,Kali Chaudas (Naraka Chaturdashi)
+2028-10-17,Diwali (Lakshmi Puja)
+2028-10-18,Bestu Varas (Gujarati New Year)
+2028-10-19,Bhai Bij
+2028-10-22,Labh Pancham
